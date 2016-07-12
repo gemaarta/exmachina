@@ -1,0 +1,42 @@
+-==- -==- -==- -==- -==- -==- -==- -==- -==- -==- -==- -==- -==- -==- -==-
+-==
+-== Log category   : Unhandled exception info
+-== Build          : ExMachina - release version release build v1.02 (Dec 21 2005 12:15:04)
+-==
+-== Minidump could not be written, GetLastError = 2147942431
+-== Exception      : 0x80000003 at address 0x00748B34
+-== Exception type : BREAKPOINT 
+-==
+-==- -==- -==- -==- -==- -==- -==- -==- -==- -==- -==- -==- -==- -==- -==-
+
+1: 07/12/16 13:56:35
+1: Physical memory = 4095 MB
+1: Total memory    = 4095 MB
+1: Physical memory available      = 4095 MB
+1: Total virtual memory           = 2047 MB
+1: Total virtual memory available =   47 MB
+1: Page file available            = 4095 MB
+
+1: Data from MemoryManager:
+1: mem used:           140811304
+1: mem allocated:      165574324
+1: mem overhead:        12161104
+1: last allocation:      5592560
+1: mem used by sound:   84355515
+
+
+1:   0     n_SetWeather +3402596 bytes
+1:     Decl: int __fastcall n_SetWeather(struct m3d::sArgStack &)
+1:     Mod:  start, base: 00400000h
+
+
+Registers:
+	CS:EIP 0x0023:00748B34
+	SS:ESP 0x002B:039C3FE4
+	DS:EDI 0x002B:00000000
+	ES:ESI 0x002B:001AEF18
+	   EAX        00000000
+	   EBX        005555F0
+	   ECX        00000000
+	   EDX        00000016
+

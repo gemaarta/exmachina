@@ -1,0 +1,319 @@
+---------------------------------------------- Log begins on Tue Jul 12 14:02:25 2016 ----------------------------------------------
+I           m3dapp.cpp[0088]12/07 14:02:25 Starting up...
+I           m3dapp.cpp[1498]12/07 14:02:25 ExMachina - release version release build v1.02 (Dec 21 2005 12:15:10)
+I      Stackwalker.cpp[0608]12/07 14:02:25 Stackwalker: log file name will be 'd:/steam/steamapps/common/hard truck apocalypse/exceptions/start.exe0002.log'
+I      Stackwalker.cpp[0609]12/07 14:02:25 Stackwalker: dump file name will be 'd:/steam/steamapps/common/hard truck apocalypse/exceptions/start.exe0002.dmp'
+I      Stackwalker.cpp[0610]12/07 14:02:25 Stackwalker: game log file name will be 'd:/steam/steamapps/common/hard truck apocalypse/exceptions/start.exe0002_game.log'
+I           m3dapp.cpp[1391]12/07 14:02:25 Path: D:\Steam\steamapps\common\Hard Truck Apocalypse
+I           m3dapp.cpp[1392]12/07 14:02:25 Exe: D:\Steam\steamapps\common\Hard Truck Apocalypse\start.exe
+I           m3dapp.cpp[1401]12/07 14:02:25 Windows version: 6.1.7601
+I           m3dapp.cpp[1410]12/07 14:02:25 Computer name: GEMS
+I           m3dapp.cpp[1430]12/07 14:02:25 Cpu: GenuineIntel
+I           m3dapp.cpp[1434]12/07 14:02:25 Cpu clock: ~3411
+I           m3dapp.cpp[1459]12/07 14:02:25 Processor is mmx able
+I           m3dapp.cpp[1470]12/07 14:02:25 Physical memory: 4095 MB
+I           m3dapp.cpp[1471]12/07 14:02:25 Total memory:    4095 MB
+I           m3dapp.cpp[1472]12/07 14:02:25 Physical memory available: 4095 MB
+I           m3dapp.cpp[1473]12/07 14:02:25 Total memory available:    1586 MB
+I           m3dapp.cpp[2846]12/07 14:02:25 SetCodepage -- using codepage 1251 '1251  (ANSI - кириллица)'
+I           m3dapp.cpp[2154]12/07 14:02:25 NOTE! renderer is bind to dxrender9.dll
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Given device behavior: 80
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Confirmed device behavior: 80
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Description: AMD Radeon R9 200 / HD 7900 Series
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Driver:      aticfx32.dll
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: VendorId:    0x1002
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: DeviceId:    0x6798
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: SubSysId:    0x4481043
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Revision:    0
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Driver version info:
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d:   Product:    8
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d:   Version:    17
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d:   SubVersion: 10
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d:   Build:      1460
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: WHQLLevel:    0
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Texture max size: 16384x16384
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Guard band: (-32768.000,-32768.000,32768.000,32768.000)
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: MaxTextureBlendStages: 8
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: MaxSimultaneousTextures: 8
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: MaxActiveLights: 10
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: MaxUserClipPlanes: 6
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: VertexShaderVersion: 0xfffe0300
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: PixelShaderVersion: 0xffff0300
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Geometry instancing: supported
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Depth bias supported: yes
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Slope-scale based depth bias supported: yes
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: HwRasterization: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: HwTnL: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: PureDevice: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: CubeMap: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: VolumeMap: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: TextureAddressCaps:
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: 	wrap: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: 	clamp: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: 	border: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Projective textures: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: MaxPointSize: 256.000
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: MaxPrimitiveCount: 5592405
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: MaxVertexIndex: 16777215
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: MaxStreams: 16
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: MaxStreamsStride: 508
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: MaxAnisotropy: 16
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: MaxVertexBlendMatrices: 4
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: MaxVertexBlendMatrixIndex: 8
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: FullScreenGamma: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: COLORWRITEENABLE: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: MASKZ: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: BLENDOP: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: CLIPPLANESCALEDPOINTS: false
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: CLIPTLVERTS: false
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: TSSARGTEMP: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: DIRECTIONALLIGHTS: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: LOCALVIEWER: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: POSITIONALLIGHTS: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: TEXGEN:  true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: TWEENING:  true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Dp3: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Lerp: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: MaxNpatchTessellationLevel: 1.000
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Query VCACHE support: false
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Query EVENT support: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Query OCCLUSION support: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Query TIMESTAMP support: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Query TIMESTAMPDISJOINT support: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Query TIMESTAMPFREQ support: true
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Query PIPELINETIMINGS support: false
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Query INTERFACETIMINGS support: false
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Query VERTEXTIMINGS support: false
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Query PIXELTIMINGS support: false
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Query BANDWIDTHTIMINGS support: false
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Query CACHEUTILIZATION support: false
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Creating or resetting the device
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Back buffer format: X8R8G8B8
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Depth/stencil buffer format: D24S8
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Stenciling: off
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Rgba textures format: DXT5
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Rgba no c. textures format: A8R8G8B8
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: RgbA textures format: DXT5
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: RgbA no c. textures format: A4R4G4B4
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Rt textures format: A8R8G8B8
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Shadow textures format: R5G6B5
+I           m3dapp.cpp[1336]12/07 14:02:25 d3d: Rt depth format: D16
+I           m3dapp.cpp[2206]12/07 14:02:25 NOTE! input is bind to input_di8.dll
+I           m3dapp.cpp[1938]12/07 14:02:25 NOTE! sound is bind to sound.dll
+I           m3dapp.cpp[1350]12/07 14:02:25 input: Joystick not found
+I           m3dapp.cpp[1343]12/07 14:02:26 snd: Max sound channels available: 192
+I           m3dapp.cpp[1343]12/07 14:02:26 snd: Sound is inited successfully
+I             font.cpp[0976]12/07 14:02:26 FontManager: fonts are loaded successfully
+I      gameimpulse.cpp[0288]12/07 14:02:26 Key bindings: were inited successfully
+I           view32.cpp[0705]12/07 14:02:26 --- Init Media ---
+I    GameUiManager.cpp[0303]12/07 14:02:26 Interface: is initializing...
+I    GameUiManager.cpp[1580]12/07 14:02:26 Interface: clearing resource infos ...
+I    GameUiManager.cpp[1491]12/07 14:02:26 Interface: loading resource infos ...
+I    GameUiManager.cpp[1603]12/07 14:02:26 Interface: loading resources ...
+I           m3dapp.cpp[1343]12/07 14:02:26 snd: Error: Can't Open SoundFile: 
+I           m3dapp.cpp[1343]12/07 14:02:26 snd: Cannot open sound stream from file . Error: File not found, flags: 8272
+I    GameUiManager.cpp[0395]12/07 14:02:26 Interface: is inited successfully
+I        LevelInfo.cpp[0806]12/07 14:02:26 Level infos were loaded successfully from file data\if\diz\LevelInfo.xml
+I        LevelInfo.cpp[0747]12/07 14:02:26 LevelInfoManager was inited successfully
+I   TruxxUiManager.cpp[0191]12/07 14:02:26 TruxxUiManager: was inited successfully
+I      gameimpulse.cpp[0618]12/07 14:02:27 Key bindings: unbind all is done
+I      gameimpulse.cpp[0324]12/07 14:02:27 Key bindings: were loaded successfully from file data\scripts\DefaultKeyBindings.lua
+I      gameimpulse.cpp[1194]12/07 14:02:27 Key bindings: were bind from defaults
+I          Profile.cpp[0602]12/07 14:02:27 Profile "gem" set
+I   TruxxUiManager.cpp[1422]12/07 14:02:27 Game mode changed. Old mode = 3, new mode = 2
+I        SplashWnd.cpp[0244]12/07 14:02:27 Start splashing 11
+I           view32.cpp[1048]12/07 14:02:27 -- Loading Level: data\maps\mainmenu.ssl --
+I            world.cpp[0132]12/07 14:02:27 ----------------------- World Loading
+F        landscape.cpp[1674]12/07 14:02:27  +- Enter function: Landscape::Load()
+I        landscape.cpp[1911]12/07 14:02:27  |  ----------------------- Normal map loaded in: 0
+I        landscape.cpp[1920]12/07 14:02:27  |  ----------------------- Tiles loaded in: 0
+I        landscape.cpp[1944]12/07 14:02:27  |  ----------------------- ShoreLine loaded in: 0
+F        landscape.cpp[1944]12/07 14:02:27  +- Exit function: Landscape::Load()
+I            world.cpp[0169]12/07 14:02:27 ----------------------- Landscape loaded in: 0
+I       DataServer.cpp[0587]12/07 14:02:27 Loading Servers: data\maps\MainMenu\servers.xml
+I serverAnimatedModel.cpp[0630]12/07 14:02:30 ### Total time: 2433, GAM time: 2151
+I       DataServer.cpp[0587]12/07 14:02:31 Loading Servers: data\models\commonservers.xml
+I            world.cpp[0210]12/07 14:02:31 ----------------------- Servers loaded in: 0
+I            world.cpp[0338]12/07 14:02:31 LoadWorld begin...
+I            world.cpp[0350]12/07 14:02:31 %%%% read/parse xml: 0
+I            world.cpp[0362]12/07 14:02:31 %%%% read from xml: 0
+E    PlayerPassMap.cpp[0139]12/07 14:02:31 Couldn't load player pass map from file data\maps\MainMenu\player_passmap.xml
+I            world.cpp[0444]12/07 14:02:31 %%%% link nodes: 0
+I            world.cpp[0220]12/07 14:02:31 ----------------------- Nodes loaded in: 0
+I            world.cpp[0228]12/07 14:02:31 ----------------------- Prefabs loaded in: 0
+I            world.cpp[0247]12/07 14:02:31 ----------------------- World loaded in: 0
+I            world.cpp[0278]12/07 14:02:31 ----------------------- Roads loaded in: 0
+I           view32.cpp[1078]12/07 14:02:32 Load Server begin...
+I   TruxxUiManager.cpp[0974]12/07 14:02:32 Interface: is loaded successfully
+I           server.cpp[0789]12/07 14:02:32 AI: Loading Server...
+I           server.cpp[0796]12/07 14:02:32 	AI: Loading Relationship
+I     Relationship.cpp[0134]12/07 14:02:32 		 File readed
+I           server.cpp[0801]12/07 14:02:32 	AI: Loading SoilProps
+I           server.cpp[0804]12/07 14:02:33 	AI: Loading ExternalPaths
+I           server.cpp[0807]12/07 14:02:33 	AI: Loading PlayerPassMap
+E    PlayerPassMap.cpp[0139]12/07 14:02:33 Couldn't load player pass map from file data\maps\MainMenu\player_passmap.xml
+I           server.cpp[0813]12/07 14:02:33 	AI: Loading GameObjects
+E        AIManager.cpp[0220]12/07 14:02:33 (data\gamedata\lua\teammain.lua/ @ 0): run-time script error
+
+E        AIManager.cpp[0225]12/07 14:02:33 Error in return results: invalid number of return values
+E        AIManager.cpp[0220]12/07 14:02:33 (data\gamedata\lua\vehiclemain.lua/ @ 0): run-time script error
+
+E        AIManager.cpp[0225]12/07 14:02:33 Error in return results: invalid number of return values
+I           server.cpp[0816]12/07 14:02:33 	AI: Initializing VehicleGeneratorInfoCache
+I           server.cpp[0820]12/07 14:02:33 	AI: Refreshing GameObjects
+I           server.cpp[0824]12/07 14:02:33 	AI: Loading QuestStates
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'FindGomerA_Quest1' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'Human1_Quest1' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'Human1_Quest2' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'q_PlaceWithSign' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r3m2_OracleMemory' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r3m1_LureMainDriud' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r3m1_ClearSanctuary' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r3m1_KnowAboutUluk' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r3m1_RescueUlukCivil' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'q_VisitDruid' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r2m2_Znaki2_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r2m2_HeadsHunterQuest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r2m2_OldDvigatel1_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r2m2_OldDvigatel2_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r2m2_FightFelix' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r2m2_ReturnToMarecciaFromCastle' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r2m2_FightWithAxelInArena_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r2m2_FindLisAfterAxelAndFatherDie_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r2m2_ToLisaToMonastir' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r2m1_ArtAntipod_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r2m1_TakeNarcotics_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r2m1_KillGodFather_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_GetSupportOneOfTheBands2_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_GetSupportOneOfTheBands1_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_FindVerbInAR_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_FindVerbInSNG_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_TakeGeneralOfBandits_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'FindGomerB_Quest1' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'TraiderStorage_Quest1' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'FreeExtremistLeader_Quest1' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'KillExtremist_Quest1' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r1m4_TalkWithOldTraderAboutSecondDisk' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'q_FindHusbent' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r1m3_BonnyAndKlideQuest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r1m3_ArchHelp' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r1m3_OldTownOutsiderCar_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r1m3_CrazyManQuest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_RideAcrossBase_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_GiveMoneyToBase_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_BombShahtsAtakBandits_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_GetBomb_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_IntrigaOfMerMinin_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_MoveFreelancersToOilMine_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_MoveCanistraToMinin_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_OpenTunel_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r1m3_TW_OralceAboutAlien' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_PayWorkersMoney_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'WhereSigns_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'CombatInKollizey_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'BuyKollizey_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'Kollizey_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'HelpRuins_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'DestroyRuins_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'Signs_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r1m2_TW_BanAboutAlien' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r1m3_DestroyOracle' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'WorkGiver_Quest1' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_PunishBandits_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r1m1_Hospital_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r1m1_Botanik_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'r1m1_FindBotanik_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'Buyer_Quest1' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'TalkWithFather_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_Lisa_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'FindBen_Quest' can be given now
+I       QuestState.cpp[0904]12/07 14:02:33 Quest 'd_SinFather_Quest' can be given now
+I           server.cpp[0826]12/07 14:02:33 	AI: QuestStates loaded
+I           server.cpp[0828]12/07 14:02:33 	AI: Loading DynamicScene
+I     DynamicScene.cpp[1470]12/07 14:02:33 		 Scene loading begin
+E  SimplePhysicObj.cpp[0414]12/07 14:02:33 Error: mass is too low: 0.000 for ParticleSplinter id = 9 prototype = 'particleSplinter'
+E  SimplePhysicObj.cpp[0414]12/07 14:02:33 Error: mass is too low: 0.000 for ParticleSplinter id = 10 prototype = 'particleSplinter'
+I     DynamicScene.cpp[1472]12/07 14:02:33 		 Scene loading end
+I           server.cpp[0837]12/07 14:02:33 	AI: DynamicScene loaded
+I           server.cpp[0852]12/07 14:02:33 	AI: Loading Triggers
+E           server.cpp[1242]12/07 14:02:33 Error: cannot open data\maps\MainMenu\
+I           server.cpp[0855]12/07 14:02:33 	AI: Triggers loaded
+I           server.cpp[0857]12/07 14:02:33 	AI: Loading Object Names
+E     ObjContainer.cpp[1104]12/07 14:02:33 Error: cannot open data\maps\MainMenu\object_names.xml
+I           server.cpp[0868]12/07 14:02:33 	AI: Initing Player
+I           server.cpp[0888]12/07 14:02:33 		Before first Update
+E          Trigger.cpp[0389]12/07 14:02:33 ***************** TRIGGER ERROR *******************
+E          Trigger.cpp[0390]12/07 14:02:33 (triggerTrigger_start/ @ 0): run-time script error
+
+I           server.cpp[0909]12/07 14:02:33 		After first Update
+I           server.cpp[0911]12/07 14:02:33 AI: Finished Loading Server
+I           view32.cpp[1106]12/07 14:02:33 Load server end
+I        QuestInfo.cpp[0847]12/07 14:02:33 Quest infos were loaded successfully from file data\if\diz\QuestInfoGlobal.xml
+I        QuestInfo.cpp[0783]12/07 14:02:33 QuestInfo manager was inited successfully
+I       MsgManager.cpp[0391]12/07 14:02:33 Can't open file data\maps\MainMenu\strings.xml for read.
+I    GameUiManager.cpp[0303]12/07 14:02:33 Interface: is initializing...
+I    GameUiManager.cpp[0405]12/07 14:02:33 Interface: is clearing...
+I    GameUiManager.cpp[0495]12/07 14:02:33 Interface: is cleared successfully
+I    GameUiManager.cpp[0395]12/07 14:02:33 Interface: is inited successfully
+I blockMusicManager.cpp[0199]12/07 14:02:33 BlockMusicManager: resetting
+I           m3dapp.cpp[1808]12/07 14:02:33 ----------------------- Engine inited in: 0
+I      gameimpulse.cpp[0618]12/07 14:02:33 Key bindings: unbind all is done
+I        scriptlet.cpp[0045]12/07 14:02:33 Could not open script file data\profiles\gem\keybindings.lua
+I      gameimpulse.cpp[0318]12/07 14:02:33 Key bindings: loading error - (data\profiles\gem\keybindings.lua @ 0): file not found or could not be read 
+I      gameimpulse.cpp[1217]12/07 14:02:33 Key bindings: error loading from profile file; load defaults instead
+I      gameimpulse.cpp[0618]12/07 14:02:33 Key bindings: unbind all is done
+I      gameimpulse.cpp[0324]12/07 14:02:33 Key bindings: were loaded successfully from file data\scripts\DefaultKeyBindings.lua
+I      gameimpulse.cpp[1194]12/07 14:02:33 Key bindings: were bind from defaults
+I        SplashWnd.cpp[0244]12/07 14:02:36 Start splashing 11
+I   TruxxUiManager.cpp[1422]12/07 14:02:36 Game mode changed. Old mode = 2, new mode = 0
+I    GameUiManager.cpp[0405]12/07 14:02:36 Interface: is clearing...
+I    GameUiManager.cpp[0495]12/07 14:02:36 Interface: is cleared successfully
+I           view32.cpp[1048]12/07 14:02:36 -- Loading Level: data\maps\r1m1.ssl --
+I            world.cpp[0132]12/07 14:02:36 ----------------------- World Loading
+F        landscape.cpp[1674]12/07 14:02:36  +- Enter function: Landscape::Load()
+I        landscape.cpp[1911]12/07 14:02:36  |  ----------------------- Normal map loaded in: 9
+I        landscape.cpp[1920]12/07 14:02:36  |  ----------------------- Tiles loaded in: 110
+I        landscape.cpp[1944]12/07 14:02:36  |  ----------------------- ShoreLine loaded in: 1
+F        landscape.cpp[1944]12/07 14:02:36  +- Exit function: Landscape::Load()
+I            world.cpp[0169]12/07 14:02:36 ----------------------- Landscape loaded in: 232
+I       DataServer.cpp[0587]12/07 14:02:36 Loading Servers: data\maps\r1m1\servers.xml
+I serverAnimatedModel.cpp[0630]12/07 14:02:41 ### Total time: 5179, GAM time: 4551
+I       DataServer.cpp[0587]12/07 14:02:41 Loading Servers: data\models\commonservers.xml
+I            world.cpp[0210]12/07 14:02:41 ----------------------- Servers loaded in: 5373
+I            world.cpp[0338]12/07 14:02:41 LoadWorld begin...
+I            world.cpp[0350]12/07 14:02:41 %%%% read/parse xml: 49
+I            world.cpp[0362]12/07 14:02:41 %%%% read from xml: 36
+I            world.cpp[0444]12/07 14:02:41 %%%% link nodes: 61
+I            world.cpp[0220]12/07 14:02:41 ----------------------- Nodes loaded in: 149
+I            world.cpp[0228]12/07 14:02:41 ----------------------- Prefabs loaded in: 1
+I            world.cpp[0247]12/07 14:02:42 ----------------------- World loaded in: 5866
+I           Kernel.cpp[0280]12/07 14:02:42 CreateTextureFromFileInMemoryEx error: E_OUTOFMEMORY file: data\models\roads\test\hightway_small\hightway_skin5.dds
+I           m3dapp.cpp[1336]12/07 14:02:42 d3d: texmap failed to load: data\models\roads\test\hightway_small\hightway_skin5.dds
+E       DraftModel.cpp[1002]12/07 14:02:42 Error: Couldn't load texture data\models\roads\test\hightway_small\hightway_skin5.dds for model small.gam
+I           Kernel.cpp[0280]12/07 14:02:42 CreateTextureFromFileInMemoryEx error: E_OUTOFMEMORY file: data\models\roads\test\hightway_small\hightway_skin_crosst.dds
+I           m3dapp.cpp[1336]12/07 14:02:42 d3d: texmap failed to load: data\models\roads\test\hightway_small\hightway_skin_crosst.dds
+E       DraftModel.cpp[1002]12/07 14:02:42 Error: Couldn't load texture data\models\roads\test\hightway_small\hightway_skin_crosst.dds for model hightway_crosst_small.gam
+I           Kernel.cpp[0280]12/07 14:02:42 CreateTextureFromFileInMemoryEx error: E_OUTOFMEMORY file: data\models\roads\test\hightway_small\hightway_skin_cross.dds
+I           m3dapp.cpp[1336]12/07 14:02:42 d3d: texmap failed to load: data\models\roads\test\hightway_small\hightway_skin_cross.dds
+E       DraftModel.cpp[1002]12/07 14:02:42 Error: Couldn't load texture data\models\roads\test\hightway_small\hightway_skin_cross.dds for model hightway_cross_small.gam
+I           Kernel.cpp[0280]12/07 14:02:42 CreateTextureFromFileInMemoryEx error: E_OUTOFMEMORY file: data\models\roads\test\hightway_small\hightway_skin5_end.dds
+I           m3dapp.cpp[1336]12/07 14:02:42 d3d: texmap failed to load: data\models\roads\test\hightway_small\hightway_skin5_end.dds
+E       DraftModel.cpp[1002]12/07 14:02:42 Error: Couldn't load texture data\models\roads\test\hightway_small\hightway_skin5_end.dds for model small_end.gam
+I           Kernel.cpp[0280]12/07 14:02:42 CreateTextureFromFileInMemoryEx error: E_OUTOFMEMORY file: data\models\roads\test\old_hightway\hightway_skin1.dds
+I           m3dapp.cpp[1336]12/07 14:02:42 d3d: texmap failed to load: data\models\roads\test\old_hightway\hightway_skin1.dds
+E       DraftModel.cpp[1002]12/07 14:02:42 Error: Couldn't load texture data\models\roads\test\old_hightway\hightway_skin1.dds for model big.gam
+I           Kernel.cpp[0280]12/07 14:02:42 CreateTextureFromFileInMemoryEx error: E_OUTOFMEMORY file: data\models\roads\test\old_hightway\hightway_skin_crosst.dds
+I           m3dapp.cpp[1336]12/07 14:02:42 d3d: texmap failed to load: data\models\roads\test\old_hightway\hightway_skin_crosst.dds
+E       DraftModel.cpp[1002]12/07 14:02:42 Error: Couldn't load texture data\models\roads\test\old_hightway\hightway_skin_crosst.dds for model old_hightway_crosst_big.gam
+I           Kernel.cpp[0280]12/07 14:02:42 CreateTextureFromFileInMemoryEx error: E_OUTOFMEMORY file: data\models\roads\test\old_hightway\hightway_skin_cross.dds
+I           m3dapp.cpp[1336]12/07 14:02:42 d3d: texmap failed to load: data\models\roads\test\old_hightway\hightway_skin_cross.dds
+E       DraftModel.cpp[1002]12/07 14:02:42 Error: Couldn't load texture data\models\roads\test\old_hightway\hightway_skin_cross.dds for model old_hightway_cross_big.gam
+I           Kernel.cpp[0280]12/07 14:02:42 CreateTextureFromFileInMemoryEx error: E_OUTOFMEMORY file: data\models\roads\test\old_hightway\hightway_skin5_end.dds
+I           m3dapp.cpp[1336]12/07 14:02:42 d3d: texmap failed to load: data\models\roads\test\old_hightway\hightway_skin5_end.dds
+E       DraftModel.cpp[1002]12/07 14:02:42 Error: Couldn't load texture data\models\roads\test\old_hightway\hightway_skin5_end.dds for model big_end.gam
+I           Kernel.cpp[0280]12/07 14:02:42 CreateTextureFromFileInMemoryEx error: E_OUTOFMEMORY file: data\models\roads\cross_road_big\hightway_skin5.dds
+I           m3dapp.cpp[1336]12/07 14:02:42 d3d: texmap failed to load: data\models\roads\cross_road_big\hightway_skin5.dds
+E       DraftModel.cpp[1002]12/07 14:02:42 Error: Couldn't load texture data\models\roads\cross_road_big\hightway_skin5.dds for model big.gam
+I           Kernel.cpp[0280]12/07 14:02:42 CreateTextureFromFileInMemoryEx error: E_OUTOFMEMORY file: data\models\roads\cross_road_big\hightway_skin5.dds
+I           m3dapp.cpp[1336]12/07 14:02:42 d3d: texmap failed to load: data\models\roads\cross_road_big\hightway_skin5.dds
+E       DraftModel.cpp[1002]12/07 14:02:42 Error: Couldn't load texture data\models\roads\cross_road_big\hightway_skin5.dds for model blend.gam
